@@ -1,0 +1,12 @@
+{
+  "admin": {
+    "password": "scrypt:32768:8:1$bjCXfWYt7JCWyOJE$6a781367fa6d41116d8fc2516b9346de9bab0a99d84f6f781aabc6cb02a800b054aafe7e19e48783e581497c0dc21949c4520f339ffa416de7bc183d13a4652a",
+    "email": "admin@secure.com",
+    "created": "2026-04-05"
+  },
+  "tanyakumar5037": {
+    "password": "scrypt:32768:8:1$hJADHlzos6pL3Bh2$d9fa1be4c39164d09c6f39ccd22917b663f917e5588714614e33c3728b62204f40858aba4830cb5ff9ae195d4b51b7fd0c840dcde9044a622600f8fa5de0be39",
+    "email": "tanyakr5037@gmail.com",
+    "created": "2026-04-05"
+  }
+}
