@@ -37,17 +37,6 @@ Security Implementation
 - Sensitive user information is hashed using SHA-256
 - Ensures privacy and protection against data exposure
 
-Project Structure
-
-secure_purchase_prediction/
-│── templates/
-│── model/
-│── encrypted_data/
-│── app.py
-│── train_model.py
-│── encryption.py
-│── requirements.txt
-
 Installation
 
 ```bash
